@@ -18,7 +18,7 @@ struct ContentView: View {
                 Text("Me, Stella Fisher")
                     .font(.title)
                     .foregroundColor(Color(hue: 0.671, saturation: 0.488, brightness: 0.361))
-                Text("🐟🐟🐟🐟🐟🐟🐟")
+                Text("🐟🐟🐟🐟🐟🐟")
                     .font(.caption)
                     .foregroundColor(Color(hue: 0.671, saturation: 0.488, brightness: 0.361))
              
